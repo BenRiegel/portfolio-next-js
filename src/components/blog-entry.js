@@ -8,7 +8,7 @@ import styles from '../stylesheets/blog-entry.module.css';
 
 export default function BlogEntry(props){
 
-  const date = new Date(props.post.date);
+  const date = new Date(`${props.post.date} 00:00:00`);
   const month = date.toLocaleString('default', { month: 'long' })
   const day = date.getDate();
   const year = date.getFullYear();
