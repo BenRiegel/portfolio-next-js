@@ -1,0 +1,35 @@
+.contact {
+  max-width: 500px;
+}
+
+.contact p {
+  padding-bottom: 0px;
+}
+
+.links {
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.links a {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 2.5px 7.5px;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  background-color: white;
+  font-size: 1.6rem;   /*not sure why I need this */
+}
+
+.links a:last-child{
+  margin-bottom: 5px;
+}
+
+.links img {
+  margin-right: 10px;
+  width: 32px;
+  height: 32px;
+}

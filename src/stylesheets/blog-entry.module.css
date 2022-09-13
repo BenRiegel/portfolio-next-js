@@ -1,0 +1,32 @@
+.entry{
+  padding: 20px 0;
+  border-bottom: 1px solid #dddddd;
+}
+
+.entry:last-child{
+  border-bottom:0;
+}
+
+.title {
+  text-decoration: none;
+}
+
+.title h2 {
+  padding: 0;
+}
+
+.date {
+  color: #596979;
+  margin-top: 5px;
+  line-height: 100%;
+  padding: 0px;
+}
+
+.summary {
+  margin-top: 5px;
+  padding: 0px;
+}
+
+.summary a {
+  margin-left: 5px;
+}

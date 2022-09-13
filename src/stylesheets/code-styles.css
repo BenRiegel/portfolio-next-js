@@ -1,0 +1,32 @@
+.hljs.language-js{
+  background-color: rgb(227, 233, 242);
+  border-radius: 5px;
+  font-family: Consolas, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
+  line-height: 1.5;
+}
+
+pre code.hljs {
+  display:block;
+  overflow-x:auto;
+  padding:1em
+}
+
+code.hljs{
+  padding:3px 5px
+}
+
+.hljs-keyword{
+  color: purple;
+}
+
+.hljs-string{
+  color: green;
+}
+
+.hljs-variable.language_{
+  color: red;
+}
+
+.hljs-title.function_{
+  color: blue;
+}

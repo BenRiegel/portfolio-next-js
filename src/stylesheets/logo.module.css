@@ -1,0 +1,31 @@
+.container {
+  display: flex;
+  align-items: center;
+}
+
+/* not sure why this is necessary but it is */
+.container a{
+  width: 64px;
+  height: 64px;
+}
+
+.container img{
+  border-radius:50%;
+}
+
+.nameContainer {
+  margin-left: 15px;
+}
+
+.nameContainer a {
+  font-size: 2.4rem;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.title {
+  font-size: 2rem;
+  font-weight: 600;
+  color: #596979;
+  margin-top: 3px;
+}

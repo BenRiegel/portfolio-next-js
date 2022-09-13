@@ -1,0 +1,17 @@
+.post {
+  max-width: 680px;
+  margin-top: 20px;
+}
+
+.post ol, .post ul {
+  margin-left: 20px;
+  margin-bottom: 15px;
+}
+
+.post img{
+  width: 100%;
+}
+
+.back {
+  font-size: 1.2rem;
+}
