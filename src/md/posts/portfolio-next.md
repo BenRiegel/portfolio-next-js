@@ -75,7 +75,7 @@ export async function getStaticProps( {params} ){
 }
 ~~~
 
-To make the pre-rendering work, I had to create some extra functions that serve as instructors for Next.js. In the code above, I created and exported two functions: "getStaticPaths" and "getStaticProps." The former tells Next.js the names of all the blog post paths (for example, the path for this post is '/posts/portfolio-new'). The latter tells Next.js what props I want to send to the BlogPost component. In this case, it's data about the blog post, including the content html. I had to do some work to retrieve all the post paths and other data, but getting Next.js to work was fairly easy.
+To make the pre-rendering work, I had to create some extra functions that serve as instructors for Next.js. In the code above, I created and exported two functions: "getStaticPaths" and "getStaticProps." The former tells Next.js the names of all the blog post paths (for example, the path for this post is '/posts/portfolio-next'). The latter tells Next.js what props I want to send to the BlogPost component. In this case, it's data about the blog post, including the content html. I had to do some work to retrieve all the post paths and other data, but getting Next.js to work was fairly easy.
 
 ## Markdown Conversion
 

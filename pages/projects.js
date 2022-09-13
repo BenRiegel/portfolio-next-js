@@ -41,10 +41,10 @@ function Portfolio(){
             See it live (you're already seeing it!)
           </li>
           <li>
-            Read about this project on my <Link href='../posts/portfolio'>blog</Link>
+            Read about this project on my <Link href='../posts/portfolio-next'>blog</Link>
           </li>
           <li>
-            View source code on <a href='https://github.com/BenRiegel/portfolio'>GitHub</a>
+            View source code on <a href='https://github.com/BenRiegel/portfolio-next-js'>GitHub</a>
           </li>
         </ul>
         <img src="./images/portfolio.png" alt="My Professional Website"></img>
