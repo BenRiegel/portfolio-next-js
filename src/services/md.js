@@ -27,6 +27,11 @@ posts.sort( (a, b) => {
   } else if (a.date > b.date) {
     return -1;
   } else {
+    if (a.title < b.title){
+      return 1;
+    } else if (a.title > b.title){
+      return -1;
+    }
     return 0;
   }
 });

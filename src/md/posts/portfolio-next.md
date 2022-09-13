@@ -6,7 +6,7 @@ description: "In this post, I discuss how I recoded my professional website (the
 
 # Refactoring My Professional Website
 
-Earlier in the year, I created this website to let people know more about my professional work. This was done using React. I recently have gone back and revised some of code of this site using Next.js. In this post, I will discuss why and how I made the changes.
+Earlier in the year, I created [this website](portfolio) to let people know more about my professional work. This was done using React. I recently have gone back and revised some of code of this site using Next.js. In this post, I will discuss why and how I made the changes.
 
 ## Blog Post Loading
 

@@ -7,8 +7,6 @@ import styles from '../src/stylesheets/projects.module.css';
 
 //----- local code block -------------------------------------------------------
 
-//change img elements to next images
-
 function Minesweeper(){
   return (
     <div className={styles.project}>
