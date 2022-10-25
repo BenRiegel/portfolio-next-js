@@ -7,6 +7,29 @@ import styles from '../src/stylesheets/projects.module.css';
 
 //----- local code block -------------------------------------------------------
 
+function Tetris(){
+  return (
+    <div className={styles.project}>
+      <h2>Tetris</h2>
+      <div className={styles.info}>
+        <ul>
+          <li>
+            See it <a href='https://tetris-riegel.netlify.app/'>live</a>
+          </li>
+          <li>
+            Read about this project on my <a href='../posts/tetris'>blog</a>
+          </li>
+          <li>
+            View source code on <a href='https://github.com/BenRiegel/tetris'>GitHub</a>
+          </li>
+        </ul>
+        <img src="./images/tetris.png" alt="Tetris game"></img>
+      </div>
+    </div>
+  );
+}
+
+
 function Minesweeper(){
   return (
     <div className={styles.project}>
@@ -110,6 +133,7 @@ export default function Projects(){
             Projects
           </h1>
           <div className={styles.projectsList}>
+            <Tetris/>
             <Minesweeper/>
             <Portfolio/>
             <SelectMenu/>
