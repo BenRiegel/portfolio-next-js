@@ -133,14 +133,16 @@ export default function Projects(){
             Projects
           </h1>
           <div className={styles.projectsList}>
+            <PGE/>
+            <Portfolio/>
             <Tetris/>
             <Minesweeper/>
-            <Portfolio/>
-            <SelectMenu/>
-            <PGE/>
           </div>
         </div>
       </Layout>
     </>
   );
 };
+
+
+//<SelectMenu/>    

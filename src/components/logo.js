@@ -21,7 +21,7 @@ export default function Logo(){
       </Link>
       <div className={styles.nameContainer}>
         <Link href="/">Ben Riegel</Link>
-        <div className={styles.title}>Front-End Developer</div>
+        <div className={styles.title}>GIS Analyst</div>
       </div>
     </div>
   );
