@@ -4,7 +4,7 @@ date: '2023-09-05'
 description: 'The first part in a series on species range maps. I provide an overview of this type of map and contrast it with other types of species maps.'
 ---
 
-# Range Maps, Part 1
+# Range Maps, Part 1: Overview
 
 I'm a birder. I like going out early in the morning and looking for birds. Field guides are an indespensible part of learning how to identify birds. Most field guides include range maps, which show where a particular species of bird can be found. I have spent many happy hours looking at species range maps in my copy of [The Sibley Guide to Birds](https://www.amazon.com/Sibley-Guide-Birds-2nd/dp/030795790X/ref=asc_df_030795790X/?tag=hyprod-20&linkCode=df0&hvadid=312168166316&hvpos=&hvnetw=g&hvrand=8819399206373186866&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9002773&hvtargid=pla-434079760006&psc=1&mcid=05db4fe7f24e379da18354176133ac6d&gclid=Cj0KCQiAmNeqBhD4ARIsADsYfTdu11zhSYqPnclVdNcBv5kFAVgjT5MxA8IjeZ8Sod5KhKNXoHthtG8aAn_REALw_wcB).
 
